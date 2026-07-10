@@ -9,4 +9,4 @@
 3. `docs/01_as_is/` に現行コード・DB・API・業務の調査結果を記録します。
 4. 承認済みの要求・要件だけを設計・実装・テストへ進めます。
 
-詳細は [START_HERE.md](START_HERE.md) を参照してください。各フォルダでエンジニアとエージェントが行うことは、[docs/README.md](docs/README.md) にまとめています。
+詳細は [START_HERE.md](START_HERE.md) を参照してください。各フォルダでエンジニアとエージェントが行うことは、[docs/README.md](docs/README.md) にまとめています。実案件でのリポジトリ構成・開始方法・情報管理は、[docs/PROJECT_REPOSITORY_GUIDE.md](docs/PROJECT_REPOSITORY_GUIDE.md) を参照してください。
